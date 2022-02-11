@@ -1,0 +1,4 @@
+<configs>
+  <set xpath="/blocks/block[starts-with(@name, 'HN')]/property[@name='LootList']/@value">DFPlayerStorage</set>
+  <set xpath="/blocks/block[starts-with(@name, 'ZT')]/property[@name='LootList']/@value">DFPlayerStorage</set>
+</configs>
