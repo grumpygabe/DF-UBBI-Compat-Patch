@@ -2,7 +2,8 @@
 A compatibility patch for Darkness Falls.
 
 # Requirements
-[Darkness Falls](https://dev.azure.com/KhaineUK/_git/DarknessFallsA20) and the A19 version of [Unnecessarily Beautiful But Immersive](https://www.nexusmods.com/7daystodie/mods/1242)
+[Darkness Falls](https://dev.azure.com/KhaineUK/_git/DarknessFallsA20) and the A19 version of Unnecessarily Beautiful But Immersive
+:warning:**Note:** Ztensity has now updated [Unnecessarily Beautiful But Immersive for A20](https://www.nexusmods.com/7daystodie/mods/1242), so no patch should now be needed to run that mod with Darkness Falls. 
 
 # Description
 This is a simple compatibility patch to make the A19 version of Ztensity's wonderful UBBI mod work with A20/V4 Darkness Falls.  It will not work with vanilla.
